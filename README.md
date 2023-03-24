@@ -7,6 +7,7 @@ Responsável: André Luiz Ferreira Guzik
 
 
 *** Requisitos de instalação ***
+   
     1 - Python 3
     2 - Pip 22.2
     3 - Robot Framework 5.0.1
